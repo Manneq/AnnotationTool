@@ -1,215 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02c2cd3e-1542-4f41-8d04-4c5860cccc97" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-105.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-106.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-107.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-108.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-113.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-114.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-115.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-116.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-118.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-119.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-120.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-122.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-125.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-126.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-129.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-130.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-133.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-134.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-136.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-137.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-138.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-139.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-141.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-142.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-143.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-144.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-145.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-146.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-147.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-148.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-149.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-151.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-152.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-153.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-154.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-156.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-157.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-159.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-160.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-161.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-162.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-163.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-164.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-165.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-166.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-167.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-168.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-169.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-170.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-171.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-172.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-173.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-174.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-175.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-176.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-178.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-179.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-181.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-182.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-183.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-184.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-185.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-186.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-187.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-188.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-189.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-190.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-191.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-192.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-193.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-194.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-195.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-196.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-197.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-198.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-199.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-60.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-61.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-62.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-63.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-64.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-65.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-66.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-67.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-68.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-69.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-70.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-71.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-72.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-73.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-74.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-76.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-77.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-78.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-79.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-80.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-81.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-82.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-83.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-84.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-85.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-86.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-87.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-88.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-89.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-90.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-91.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-92.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-93.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-94.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-95.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-96.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-97.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-98.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/raccoon-99.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/training.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/training_tiny.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AnnotationTool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AnnotationTool.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="02c2cd3e-1542-4f41-8d04-4c5860cccc97" name="Default" comment="Added &quot;raccoon dataset&quot; images, training.data and training_tiny.data files. &#10;Small but important bug fixes in main.py" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="495" />
     <option name="y" value="32" />
     <option name="width" value="1400" />
@@ -384,13 +176,21 @@
       <option name="presentableId" value="Default" />
       <updated>1551206495220</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added &quot;raccoon dataset&quot; images, training.data and training_tiny.data files. &#10;Small but important bug fixes in main.py">
+      <created>1556957931161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556957931161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -402,15 +202,42 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Added &quot;raccoon dataset&quot; images, training.data and training_tiny.data files. &#10;Small but important bug fixes in main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;raccoon dataset&quot; images, training.data and training_tiny.data files. &#10;Small but important bug fixes in main.py" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/classes.name">
