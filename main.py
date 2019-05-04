@@ -33,6 +33,8 @@ class AnnotationTool:
     class_candidate_temp = []  # contains all classes
     classes_filename = 'classes.name'  # path to classes file
     color = 'red'  # outline bbox color
+    is_first = True  # first line to be written in a file
+    is_first_tiny = True  # first line to be written in a file (tiny)
 
     # mouse state initializing
     mouse_state = {}
@@ -292,30 +294,36 @@ class AnnotationTool:
             self.labels_file_name = \
                 self.labels_file_name.split('.')[0] + '.jpg'
 
-            f.write('data/training_data/{} '.format(self.labels_file_name))
+            if self.is_first:
+                f.write('data/training_data/{}'.format(self.labels_file_name))
+                self.is_first = False
+            else:
+                f.write('\ndata/training_data/{}'.format(
+                    self.labels_file_name))
 
             for bbox in self.bbox_list:
                 f.write(
-                    "{},{},{},{},{} ".format(int(int(bbox[0]) * self.factor),
+                    ' {},{},{},{},{}'.format(int(int(bbox[0]) * self.factor),
                                              int(int(bbox[1]) * self.factor),
                                              int(int(bbox[2]) * self.factor),
                                              int(int(bbox[3]) * self.factor),
                                              bbox[4]))
 
-            f.write('\n')
-
         with open('output/training_tiny.data', 'a') as f:
-            f.write('data/training_data/{} '.format(self.labels_file_name))
+            if self.is_first_tiny:
+                f.write('data/training_data/{}'.format(self.labels_file_name))
+                self.is_first_tiny = False
+            else:
+                f.write('\ndata/training_data/{}'.format(
+                    self.labels_file_name))
 
             for bbox in self.bbox_list:
                 f.write(
-                    "{},{},{},{},{} ".format(int(int(bbox[0]) * self.factor),
+                    ' {},{},{},{},{}'.format(int(int(bbox[0]) * self.factor),
                                              int(int(bbox[1]) * self.factor),
                                              int(int(bbox[2]) * self.factor),
                                              int(int(bbox[3]) * self.factor),
                                              0))
-
-            f.write('\n')
 
         print('Image No. %d saved' % self.current)
 
